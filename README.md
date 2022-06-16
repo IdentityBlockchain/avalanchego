@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="resources/AvalancheLogoRed.png?raw=true">
+  <H1>IdentityBlockchain</H1>
 </div>
 
 ---
