@@ -4,8 +4,10 @@
 
 ---
 
-Node implementation for the [Avalanche](https://avax.network) network -
+Node implementation for the IdentityBlockchain network -
 a blockchains platform with high throughput, and blazing fast transactions.
+
+It is a fork of Avalanche blockchain.
 
 ## Installation
 
